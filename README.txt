@@ -1,0 +1,2 @@
+A simple FIFO queue for managing tasks.
+Run 'python main.py' to run the example code given in the problem specification. This will enqueue two tasks, run them, then check the TaskResults container and print whether or not they succeeded.
